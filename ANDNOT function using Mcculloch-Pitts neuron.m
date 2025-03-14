@@ -42,3 +42,10 @@ disp(w2);
 disp('Threshold value');
 disp(theta);
 
+% Sample Input:
+% Weight w1 = 1
+% Weight w2 = 1
+% Theta = 0.1
+% Weight w1 = 1
+% Weight w2 = -1
+% Theta = 1
